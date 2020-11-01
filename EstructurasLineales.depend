@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1604233613 source:c:\users\marni\documents\develop\cpp\estructuraslineales\main.cpp
+	<iostream>
+	<string>
+	<exception>
+	"Lista.h"
+	"Pila.h"
+	"Cola.h"
+
+1604232126 c:\users\marni\documents\develop\cpp\estructuraslineales\lista.h
+	<iostream>
+	"NodoLista.h"
+
+1604226272 c:\users\marni\documents\develop\cpp\estructuraslineales\nodolista.h
+
+1604231914 c:\users\marni\documents\develop\cpp\estructuraslineales\pila.h
+	"Lista.h"
+
+1604231950 c:\users\marni\documents\develop\cpp\estructuraslineales\cola.h
+	"Lista.h"
+
